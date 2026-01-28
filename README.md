@@ -1,3 +1,3 @@
 # apnacollege-demo
 this is my first git repository
-author - muskan sonare
+author -<br> muskan sonare
